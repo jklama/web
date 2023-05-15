@@ -1,0 +1,9 @@
+.top{
+    background-color: red;
+    display: flex;
+    left: 100px;
+    justify-content: space-between;
+    height: 5vh;
+    width: 30vw;
+    
+}
